@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "stilliwrite-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "a759f4ae-91aa-4634-8814-1c255c0660b0",
+			"database_name": "stilliwrite_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
